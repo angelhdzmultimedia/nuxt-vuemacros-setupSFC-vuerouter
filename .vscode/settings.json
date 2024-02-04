@@ -2,7 +2,5 @@
   "material-icon-theme.files.associations": {
     "*.tsx": "typescript"
   },
-  "material-icon-theme.folders.associations": {
-    ".nuxt": "nuxt"
-  }
+  "material-icon-theme.activeIconPack": "vue"
 }
